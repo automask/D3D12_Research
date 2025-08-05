@@ -17,7 +17,6 @@ BundleArtifacts/
 Notes/
 *.html
 *.gv
-.vscode/
 *.nsight*
 _Temp/
 *.opt
@@ -27,3 +26,5 @@ StructLayoutSettings.json
 Saved
 D3D12/Resources/Scenes/_Local
 .idea
+config.bat
+node_modules
